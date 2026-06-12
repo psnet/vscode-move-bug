@@ -1,1 +1,0 @@
-# vscode-move-bug
